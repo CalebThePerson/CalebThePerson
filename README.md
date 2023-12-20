@@ -1,8 +1,8 @@
 
-## Moshi Mosh, Boku wa Caleb desu
+## Aloha
 ![Alt Text](https://tenor.com/view/goku-kid-goku-dragon-ball-dragon-ball-z-dragon-ball-super-gif-11577624.gif)
 ## About Me
-Moshi mosh, My name is Caleb.  I currently code degenerate projects using primarily Swift and Python.  Feel free to ask me to explain any of my projects or fix any of my projects XD.  Right now I'm in college so the idea train has been pretty lacking recently.  If you have an idea lemme know and I'll probably work on it if it's degenerate enough.  I am tryna make a game with a freind tho.  Check out the youtube channel for DevLogs XD.
+ My name is Caleb.  I currently make degenerate projects using primarily Swift and Python.  Feel free to ask me to explain any of my projects or fix any of my projects XD.  Right now I'm in college so the idea train has been pretty lacking recently.  If you have an idea lemme know and I'll probably work on it if it's degenerate enough.
 ## Favorite Projects
 <img src="https://raw.githubusercontent.com/CalebThePerson/Assets/master/Icons/DoujinFinderIcon.png" width=150 align=center> 
 <p>
