@@ -1,34 +1,46 @@
 
-## Aloha
-![Alt Text](https://tenor.com/view/goku-kid-goku-dragon-ball-dragon-ball-z-dragon-ball-super-gif-11577624.gif)
-## About Me
- My name is Caleb.  I currently make degenerate projects using primarily Swift and Python.  Feel free to ask me to explain any of my projects or fix any of my projects XD.  Right now I'm in college so the idea train has been pretty lacking recently.  If you have an idea lemme know and I'll probably work on it if it's degenerate enough.
-## Favorite Projects
-<img src="https://raw.githubusercontent.com/CalebThePerson/Assets/master/Icons/DoujinFinderIcon.png" width=150 align=center> 
-<p>
-<a href="https://github.com/CalebThePerson/DoujinshiFinder">DoujinshiFinder</a>
-</p>
-
-<img src="https://raw.githubusercontent.com/CalebThePerson/Assets/master/Icons/Maikaicon.png" width=150 align=center> 
-<p>
-<a href="https://github.com/CalebThePerson/SauceFinder">SauceFinder</a>
-</p>
-
-## Currently Working on
-<p>
-  Nothing Right Now :(
-</p>
+<img align="left" height="540" src="https://github.com/CalebThePerson/Assets/blob/master/Icons/Roxyicon.png" alt="logo" style="float: left;"/>
+<h align="left">
 
 
-## Random Badges
+```yml
+Cable@CablesLyfe: run Cable
+---------------------------------------
+- [LOG] selected: preview mode
+
+# 🦝 ================
+desc     : |
+    - Honestly just viben. I have questionable code and very questionable execution 
+pronouns : |
+    - He / Him
+desc     : |
+    - Developer and wannabe designer
+skills   : |
+    - Swift
+    - React
+    - Python 
+hobbies  : |
+    - GAMING (Playing Persona 5, League, Valorant, and a lot more)
+    - Photography
+    - Watching anime LOL
+Currently Working on : |
+    - CardWars ( lowkey on hiatus )
+
+Favorite Projects
+    - SauceFinder
+    - DoujinshiFinder
+# 🦝 ================
+
+- [LOG]: Waiting for Cable to do somethin (5 years)
+```
+</h> 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalebThePerson&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div class="clear"></div>
 
+-------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebThePerson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=CalebThePerson&color=00aeef&label=How+many+degens+look+at+my+profile)
-
-
-
+### Friends <3
+<a href="https://github.com/lillee205" target="_blank" style="display:inline-block; margin-right: 10px;">
+    <img height="50px" width="50px" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/35824945?v=4&fit=cover&mask=circle&maxage=7d" alt="Avatar">
+</a>
