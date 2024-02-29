@@ -1,5 +1,5 @@
 
-<img align="left" height="540" src="https://github.com/CalebThePerson/Assets/blob/master/Icons/Megamuin.png" alt="logo" style="float: left;"/>
+<img align="left" height="540" src="https://github.com/CalebThePerson/Assets/blob/master/Icons/Megumin.png?raw=true" alt="logo" style="float: left;"/>
 <h align="left">
 
 ```yml
