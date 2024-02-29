@@ -1,5 +1,5 @@
 
-<img align="left" height="540" src="https://images.weserv.nl/?url=https://github.com/CalebThePerson/Assets/blob/master/Icons/Roxyicon.png?raw=true&w=150&h=150&fit=cover&mask=circle" alt="logo" style="float: left;"/>
+<img align="left" height="540" src="https://github.com/CalebThePerson/Assets/blob/master/Icons/Megamuin.png" alt="logo" style="float: left;"/>
 <h align="left">
 
 ```yml
