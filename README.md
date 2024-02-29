@@ -9,11 +9,10 @@ Cable@CablesLyfe: run Cable
 
 # 🦝 ================
 desc     : |
-    - Honestly just viben. I have questionable code and very questionable execution 
+    - Honestly just viben.
+    - I have questionable code and very questionable execution 
 pronouns : |
     - He / Him
-desc     : |
-    - Developer and wannabe designer
 skills   : |
     - Swift
     - React
@@ -25,7 +24,7 @@ hobbies  : |
 Currently Working on : |
     - CardWars ( lowkey on hiatus )
 
-Favorite Projects
+Favorite Projects : |
     - SauceFinder
     - DoujinshiFinder
 # 🦝 ================
